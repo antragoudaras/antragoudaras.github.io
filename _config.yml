@@ -12,7 +12,7 @@ title                    : "Tony's Homepage"
 title_separator          : "-"
 name                     : &name "Antonios (Tony) Tragoudaras"
 description              : &description "personal description"
-url                      : https://antonios-tony-tragoudaras.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://antoniostragoudaras.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "antragoudaras/antoniostragoudaras.github.io"
 
