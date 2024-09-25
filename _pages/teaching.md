@@ -12,4 +12,5 @@ _August 2024 – Present_
 
 Assisting in teaching graduate-level (first-year) courses, in MSc of Artificial Intelligence program, by making sure students understood the material, answering their questions, creating assignments, giving feedback, and grading exams.
 - Computer Vision 1 (MSc AI)
+- Deep Learning 1 (MSc AI)
 - Fairness, Accountability, Confidentiality & Transparency in AI (MSc AI)
