@@ -15,8 +15,8 @@ redirect_from:
 # News
 
 <div style="background-color: #1e1e1e; padding: 10px; border-radius: 8px; color: white;">
-
-**Dec 4, 2024**: I happy to announce that I got accepted into the [ELLIS MSc Honours Program](https://ivi.fnwi.uva.nl/ellis/funding/ellis-msc-honours-programme/) 🏆
+  
+**Dec 4, 2024**: I am thrilled to announce that I have been accepted into the [ELLIS MSc Honours Program](https://ivi.fnwi.uva.nl/ellis/funding/ellis-msc-honours-programme/) 🏆
 
 </div>
 <!-- A data-driven personal website
